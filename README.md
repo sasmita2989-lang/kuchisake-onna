@@ -25,7 +25,7 @@ Then she asks a question.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sasmita2989-lang/kuchisake-onna/tree/main
 cd kuchisake-onna
 ```
 
